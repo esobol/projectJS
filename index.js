@@ -1,15 +1,15 @@
 'use strict';
-// alert("this is our first JS file");
+alert("this is our first JS file");
 
-// var message;
-// message = "Hi";
-// message = 100;
-// console.log(message);
+var message;
+message = "Hi";
+message = 100;
+console.log(message);
 
-// var sum = 1 + 1;
-// console.log(sum);
-// let box = document.getElementById('box');
-// console.log(box);
+var sum = 1 + 1;
+console.log(sum);
+let box = document.getElementById('box');
+console.log(box);
 
 
 var leffBorderWidght = 1;
