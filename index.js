@@ -30,7 +30,7 @@ let persone = {
 
 
 console.log(persone.age);
-let array = ['plum.phg', 'apple.jpg', 'apple.bnp']
+let array = ['plum.phg', 'apple.jpg', 'apple.bnp', 'gfgfg']
 console.log(array[1]);
 
 //alert('test123');
