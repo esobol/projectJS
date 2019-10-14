@@ -28,6 +28,7 @@ let persone = {
     isMarried: false
 }
 
+
 console.log(persone.age);
 let array = ['plum.phg', 'apple.jpg', 'apple.bnp']
 console.log(array[1]);
