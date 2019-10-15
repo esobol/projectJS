@@ -2,7 +2,8 @@
 alert("this is our first JS file");
 
 var message;
-message = "Hi";
+message = "Hi Alex
+";
 message = 100;
 console.log(message);
 
