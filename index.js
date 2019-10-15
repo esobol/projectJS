@@ -37,7 +37,7 @@ console.log(array[1]);
 // let answer = confirm('are you here');
 
 // console.log(answer);
-let answer = prompt('are you 18', 'yes');
+let answerBudget = prompt('are you 18', 'yes');
 
 console.log(typeof (null));
 console.log(4 + "jh");
